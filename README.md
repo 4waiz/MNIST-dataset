@@ -59,3 +59,9 @@ This project demonstrates two approaches to digit recognition:
 
 ```bash
 pip install scikit-learn tensorflow matplotlib
+```
+- Machine Learning
+![image](https://github.com/user-attachments/assets/3cf9f1ca-1681-473d-b73c-d9b6b220a961) 
+- Deep Learning
+![image](https://github.com/user-attachments/assets/be262b9e-1bd2-431e-a380-5cc55d7d6ac3)
+
